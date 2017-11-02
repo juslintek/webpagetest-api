@@ -28,13 +28,13 @@
     "node": ">=0.10.1"
   },
   "dependencies": {
-    "commander": "2.10.0",
-    "csv": "^1.1.1",
+    "commander": "^2.11.0",
+    "csv": "^2.0.0",
     "entities": "^1.1.1",
-    "mocha": "^3.4.1",
-    "xml2js": "^0.4.17"
+    "mocha": "^4.0.1",
+    "xml2js": "^0.4.19"
   },
   "devDependencies": {
-    "nock": "~9.0.13"
+    "nock": "^9.0.27"
   }
 }
